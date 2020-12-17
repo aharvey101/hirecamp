@@ -1,0 +1,23 @@
+{
+  "name": "hirecamp",
+  "version": "1.0.0",
+  "description": "Two sided market place for hiring caravans and camper vans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharvey101/hirecamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharvey101/hirecamp/issues"
+  },
+  "homepage": "https://github.com/aharvey101/hirecamp#readme",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
+}
